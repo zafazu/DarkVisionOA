@@ -15,7 +15,7 @@
 
 <br>
 
-## [Install Guide] SOOM
+## [Install Guide] SOON
 
 
 ## Config
