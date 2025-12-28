@@ -1,4 +1,4 @@
-# DarkVisionOA &nbsp;<sup><sub>/ˈoʊpən ʌsɑr/ &nbsp;*(o-pen as-are)*</sup></sub>
+# DarkVisionOA <sub><sup>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;*(dark-vi-zhun o-pen as-are)*</sup></sub>
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)]([https://choosealicense.com/licenses/agpl/l](https://choosealicense.com/licenses/agpl-3.0/))
 
