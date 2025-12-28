@@ -1,23 +1,22 @@
-# OpenAsar &nbsp;<sup><sub>/ˈoʊpən ʌsɑr/ &nbsp;*(o-pen as-are)*</sup></sub>
-![Nightly Status](https://github.com/GooseMod/OpenAsar/actions/workflows/nightly.yml/badge.svg) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)]([https://choosealicense.com/licenses/agpl/l](https://choosealicense.com/licenses/agpl-3.0/))
+# DarkVisionOA &nbsp;<sup><sub>/ˈoʊpən ʌsɑr/ &nbsp;*(o-pen as-are)*</sup></sub>
 
-**An open-source alternative of Discord desktop's `app.asar`**
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)]([https://choosealicense.com/licenses/agpl/l](https://choosealicense.com/licenses/agpl-3.0/))
+
+**This is a custom version of OpenAsar**
 
 ## Features
-- **:rocket: Startup Speed**: ~2x faster startup times (up to ~4x with experimental config)
-- **:chart_with_upwards_trend: Performance**: OpenAsar can make your client feel snappier (scrolling, switching channels, etc)
-- **:paintbrush: Splash Theming**: Easy theming for your splash which works with most themes for any client mod
-- **:electric_plug: Drop-in**: Replace one file and it's installed, that's it (same with uninstall)
-- **:gear: Configurable**: Adds many config options for Discord and OpenAsar enhancements (see config section)
-- **:cloud: Lightweight**: <1% of Discord's original size (9mb -> ~50kb)
-- **:shield: No Tracking**: Removes Discord's built-in tracking for crashes and errors in the asar (not app itself)
+- **⚡ Faster Startup**: Optimized boot process for noticeably quicker client launch
+- **🧩 Custom JS Plugins**: Load and run your own JavaScript plugins without restrictions
+- **🟢 Node.js Integration**: Full Node.js access inside the client for advanced tooling and automation
+- **🩹 Vencord Patching**: Seamless patching and extension of Vencord features
+- **🎬 Startup Video**: Play a custom video when the client launches
+- **✨ And Much More**: Built for experimentation, customization, and power users
 
-### See [FAQ](faq.md) for more details
 
 <br>
 
-## [Install Guide](https://github.com/GooseMod/OpenAsar/wiki/Install-Guide)
+## [Install Guide] SOOM
 
 
 ## Config
-You can configure OpenAsar by clicking the "OpenAsar..." version info in the bottom of your settings sidebar, which will open the config window.
+You can configure DarkVisionOA by clicking F2
