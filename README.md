@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://i.imgur.com/xfFiRDC.png" width="40" align="center" />
+  <img src="https://i.imgur.com/EmA5IKY.png" width="40" align="center" />
   DarkVisionOA
   <sub><sup>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;*(dark-vi-zhun o-pen as-are)*</sup></sub>
 </h1>
