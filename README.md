@@ -1,4 +1,9 @@
-# ![DarkVision Logo](https://i.imgur.com/oOVHMuk.png) DarkVisionOA <sub><sup>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;*(dark-vi-zhun o-pen as-are)*</sup></sub>
+<h1>
+  <img src="https://i.imgur.com/oOVHMuk.png" width="40" align="center" />
+  DarkVisionOA
+  <sub><sup>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;*(dark-vi-zhun o-pen as-are)*</sup></sub>
+</h1>
+
 
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)]([https://choosealicense.com/licenses/agpl/l](https://choosealicense.com/licenses/agpl-3.0/))
