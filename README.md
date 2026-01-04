@@ -1,30 +1,66 @@
-<h1>
-  <img src="https://i.imgur.com/EmA5IKY.png" width="40" align="center" />
-  DarkVisionOA
-  <sub><sup>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sup></sub>
-</h1>
+<div align="center">
 
+  <img src="https://i.imgur.com/EmA5IKY.png" width="80" />
 
+  # DarkVisionOA
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)]([https://choosealicense.com/licenses/agpl/l](https://choosealicense.com/licenses/agpl-3.0/))
+  <sub>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sub>
 
-**This is a custom version of OpenAsar**
+  <br />
 
-## Features
-- **⚡ Faster Startup**: Optimized boot process for noticeably quicker client launch
-- **🧩 Custom JS Plugins**: Load and run your own JavaScript plugins without restrictions
-- **🟢 Node.js Integration**: Full Node.js access inside the client for advanced tooling and automation
-- **🩹 Vencord Patching**: Seamless patching and extension of Vencord features
-- **🎬 Startup Video**: Play a custom video when the client launches
-- **✨ And Much More**: Built for experimentation, customization, and power users
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://choosealicense.com/licenses/agpl-3.0/)
+  ![Status: Personal Project](https://img.shields.io/badge/Status-Personal_Project-orange)
 
+  <br />
+
+  **A custom version of OpenAsar.**
+
+</div>
+
+---
+
+> [!IMPORTANT]
+> **REQUIRES VENCORD**
+> <br>This client requires Vencord to function correctly. Please ensure it is installed before proceeding.
 
 <br>
 
-## [Install Guide] SOON
+## ⚠️ Disclaimer
+
+**DarkVisionOA is not intended to replace OpenAsar.**
+
+I created this project primarily for myself and my friends to use. It is a personal fork designed to test specific features and customizations that we enjoy. While other users are welcome to try it, please keep in mind:
+* **It is not perfect:** You may encounter bugs or rough edges.
+* **It is a hobby project:** Updates and features are driven by personal interest rather than trying to be up to date.
+
+If you are looking for the standard, stable experience, please stick with the official OpenAsar. 
+
+<br>
+
+## ✨ Features
 
 
-## Config
-You can configure DarkVisionOA by clicking F2
+* ⚡ **Faster Startup**
+    <br>Optimized boot process for a noticeably quicker client launch.
+* 🧩 **Custom JS Plugins**
+    <br>Load and run your own JavaScript plugins without arbitrary restrictions.
+* 🟢 **Node.js Integration**
+    <br>Full Node.js access inside the client for advanced tooling and automation.
+* 🩹 **Vencord Patching**
+    <br>Seamless patching and extension of Vencord.
+* 🎬 **Startup Video**
+    <br>Play a custom video when the client launches for that personalized feel.
 
+<br>
 
+## ⚙️ Configuration
+
+Accessing the settings is simple. Once installed and running:
+
+> **Press `F2` to open the DarkVisionOA Config Menu.**
+
+<br>
+
+## 📥 Installation
+
+*[Installation Guide Coming Soon]*
