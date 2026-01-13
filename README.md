@@ -29,9 +29,9 @@
 
 **DarkVisionOA is not intended to replace OpenAsar.**
 
-I created this project primarily for myself and my friends to use. It is a personal fork designed to test specific features and customizations that we enjoy. While other users are welcome to try it, please keep in mind:
-* **It is not perfect:** You may encounter bugs or rough edges.
-* **It is a hobby project:** Updates and features are driven by personal interest rather than trying to be up to date.
+I created this project primarily for myself and my friends to use. It is a personal fork designed to test specific features and customization. While other users are welcome to try it, please keep in mind:
+* **It is not perfect:** You may encounter bugs or useless features or even unoptimized code.
+* **It is a hobby project:** Updates and features are decided by us.
 
 If you are looking for the standard, stable experience, please stick with the official OpenAsar. 
 
