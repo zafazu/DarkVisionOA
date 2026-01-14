@@ -1,0 +1,67 @@
+{
+  "cmdPreset": {
+    "name": "Focus",
+    "desc": "Which aspect of the client to focus on",
+    "type": "select",
+    "options": [
+      "performance",
+      "battery life",
+      "balanced"
+    ],
+    "value": "performance"
+  },
+  "loadingvids": {
+    "name": "Boot Sequence",
+    "desc": "Choose the animation shown when the app starts.",
+    "type": "select",
+    "options": [
+      "Normal",
+      "DarkVisionOA",
+      "Playstation",
+      "Gameboy"
+    ],
+    "value": "Normal"
+  },
+  "domoptimizer": {
+    "name": "DOM Optimizer",
+    "desc": "Optimizes DOM operations to improve rendering performance.",
+    "type": "boolean",
+    "value": true
+  },
+  "gpuhint": {
+    "name": "GPU Hinting",
+    "desc": "Provides hints to the browser about how to optimize rendering for GPU acceleration.",
+    "type": "boolean",
+    "value": true
+  },
+  "lazyimageloading": {
+    "name": "Lazy Image Loading",
+    "desc": "Loads images only when they are visible in the viewport.",
+    "type": "boolean",
+    "value": false
+  },
+  "scrollintoview": {
+    "name": "Optimized Scroll Into View",
+    "value": false,
+    "type": "boolean",
+    "desc": "Optimizes the scrollIntoView behavior for smoother scrolling in chat windows.",
+    "locked": false
+  },
+  "customLogo": {
+    "value": "https://i.imgur.com/FiqzBJS.gif"
+  },
+  "transparentBackground": {
+    "value": false,
+    "type": "boolean"
+  },
+  "backgroundColor": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "enableCustomMods": {
+    "name": "Enable Custom Mods",
+    "type": "boolean",
+    "value": true,
+    "desc": "Load custom JS files"
+  }
+}
