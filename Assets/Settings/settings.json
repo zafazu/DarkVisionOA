@@ -22,30 +22,11 @@
     ],
     "value": "Normal"
   },
-  "domoptimizer": {
-    "name": "DOM Optimizer",
-    "desc": "Optimizes DOM operations to improve rendering performance.",
-    "type": "boolean",
-    "value": true
-  },
-  "gpuhint": {
-    "name": "GPU Hinting",
-    "desc": "Provides hints to the browser about how to optimize rendering for GPU acceleration.",
-    "type": "boolean",
-    "value": true
-  },
   "lazyimageloading": {
     "name": "Lazy Image Loading",
     "desc": "Loads images only when they are visible in the viewport.",
     "type": "boolean",
     "value": false
-  },
-  "scrollintoview": {
-    "name": "Optimized Scroll Into View",
-    "value": false,
-    "type": "boolean",
-    "desc": "Optimizes the scrollIntoView behavior for smoother scrolling in chat windows.",
-    "locked": false
   },
   "customLogo": {
     "value": "https://i.imgur.com/FiqzBJS.gif"
