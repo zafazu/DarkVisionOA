@@ -49,6 +49,7 @@ If you are looking for the standard, stable experience, please stick with the of
     <br>Seamless integration and extension of Vencord.
 * 🎬 **Startup Video**
     <br>Play a custom video when the client launches for that personalized feel.
+* 📦 **A Lot More**
 
 <br>
 
