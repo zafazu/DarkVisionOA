@@ -45,10 +45,8 @@ If you are looking for the standard, stable experience, please stick with the of
     <br>Optimized boot process for a noticeably quicker client launch.
 * 🧩 **Custom JS Plugins**
     <br>Load and run your own JavaScript plugins without arbitrary restrictions.
-* 🟢 **Node.js Integration**
-    <br>Full Node.js access inside the client for advanced tooling and automation.
-* 🩹 **Vencord Patching**
-    <br>Seamless patching and extension of Vencord.
+* 🩹 **Vencord Integration**
+    <br>Seamless integration and extension of Vencord.
 * 🎬 **Startup Video**
     <br>Play a custom video when the client launches for that personalized feel.
 
