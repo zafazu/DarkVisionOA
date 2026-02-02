@@ -50,6 +50,7 @@ If you are looking for the standard, stable experience, please stick with the of
 * 🎬 **Startup Video**
     <br>Play a custom video when the client launches for that personalized feel.
 * 📦 **A Lot More**
+    <br>You will see a list after release, cant even wait for release man....
 
 <br>
 
