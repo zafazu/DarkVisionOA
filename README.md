@@ -54,7 +54,7 @@ If you are looking for the standard, stable experience, please stick with the of
 * 🎬 **Startup Video**
     <br>Play a custom video when the client launches for that personalized feel.
 * 📦 **A Lot More**
-    <br>Full feature list coming upon release... can't wait!
+    <br>Full feature list coming upon release... can't you even wait!? 3:<
 
 <br>
 
