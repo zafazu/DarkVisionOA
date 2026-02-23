@@ -62,7 +62,7 @@ If you are looking for the standard, stable experience, please stick with the of
 
 Accessing the settings is simple. Once installed and running:
 
-> **Press `F2` to open the DarkVisionOA Config Menu.**
+> **Press ` F2 | alt+2 | altgraphic+2 ` to open the DarkVisionOA Config Menu.**
 
 <br>
 
