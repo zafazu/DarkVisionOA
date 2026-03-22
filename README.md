@@ -9,7 +9,6 @@
   <br />
   **A custom version of OpenAsar.**
 </div>
-
 ---
 
 > [!IMPORTANT]
