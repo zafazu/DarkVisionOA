@@ -1,14 +1,18 @@
 <div align="center">
-  <img src="https://i.imgur.com/EmA5IKY.png" width="80" />
-  # DarkVisionOA 
-  # [COMING SOON]
-  <sub>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sub>
-  <br />
-  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://choosealicense.com/licenses/agpl-3.0/)
-  ![Status: Personal Project](https://img.shields.io/badge/Status-Personal_Project-orange)
-  <br />
-  **A custom version of OpenAsar.**
+  <img src="https://i.imgur.com/EmA5IKY.png" width="80" alt="DarkVisionOA Logo" />
+  <h1>DarkVisionOA</h1>
+  <h2>[COMING SOON]</h2>
+  <p><sub>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sub></p>
+  
+  <a href="https://choosealicense.com/licenses/agpl-3.0/">
+    <img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg" alt="License: AGPL v3">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Personal_Project-orange" alt="Status: Personal Project">
+  
+  <br /><br />
+  <b>A custom version of OpenAsar.</b>
 </div>
+
 ---
 
 > [!IMPORTANT]
@@ -34,17 +38,17 @@ If you are looking for the standard, stable experience, please stick with the of
 ## ✨ Features
 
 * ⚡ **Faster Startup**
-    <br>Optimized boot process for a noticeably quicker client launch.
+  <br>Optimized boot process for a noticeably quicker client launch.
 * 🧩 **Plugin Support**
-    <br>Run custom JS plugins via DVOA's preload system for deep Discord integration, alongside full support for Vencord's plugin ecosystem. Both work together seamlessly.
+  <br>Run custom JS plugins via DVOA's preload system for deep Discord integration, alongside full support for Vencord's plugin ecosystem. Both work together seamlessly.
 * 🩹 **Vencord Integration**
-    <br>Seamless integration and extension of Vencord.
+  <br>Seamless integration and extension of Vencord.
 * 🎬 **Startup Video**
-    <br>Play a custom video when the client launches for that personalized feel.
+  <br>Play a custom video when the client launches for that personalized feel.
 * 🔧 **Native Core (Planned)**
-    <br>`dvoa_core` is a native C++ patcher that hooks into Discord's internals, exposing capabilities far beyond what JavaScript mods can do.
+  <br>`dvoa_core` is a native C++ patcher that hooks into Discord's internals, exposing capabilities far beyond what JavaScript mods can do.
 * 📦 **A Lot More**
-    <br>Full feature list coming upon release... can't you even wait!? 3:
+  <br>Full feature list coming upon release... can't you even wait!? 3:
 
 <br>
 
