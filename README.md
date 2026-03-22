@@ -31,7 +31,9 @@ I created this project primarily for myself and my friends to use. It is a perso
 If you are looking for the standard, stable experience, please stick with the official OpenAsar.
 
 <br>
+
 ## ✨ Features
+
 * ⚡ **Faster Startup**
     <br>Optimized boot process for a noticeably quicker client launch.
 * 🧩 **Plugin Support**
@@ -44,6 +46,7 @@ If you are looking for the standard, stable experience, please stick with the of
     <br>`dvoa_core` is a native C++ patcher that hooks into Discord's internals, exposing capabilities far beyond what JavaScript mods can do.
 * 📦 **A Lot More**
     <br>Full feature list coming upon release... can't you even wait!? 3:
+
 <br>
 
 ## ⚙️ Configuration
