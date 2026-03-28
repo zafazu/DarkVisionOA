@@ -22,16 +22,16 @@
 <br>
 
 ## ⚠️ Disclaimer
-
 **DarkVisionOA is not intended to replace OpenAsar.**
-I created this project primarily for myself and my friends to use. It is a personal fork designed to test specific features and customizations. While other users are welcome to try it, please keep the following in mind:
 
-* **It is not perfect:** You may encounter bugs, experimental features, or unoptimized code.
-* **It is a hobby project:** Updates and features are prioritized based on personal use cases.
-* **Custom JS Plugins:** Most plugins are Vencord based and injected via DVOA's preload system, which runs before Vencord initializes, giving them deeper access than standard Vencord plugins.
-* **Native Module Patching (Planned):** DVOA is planning a native C++ core (`dvoa_core`) that injects into Discord's process and hooks native modules directly, enabling capabilities no JS based mod can offer. This is a long term goal and not yet available.
+This started as a personal project for me and my friends, a fork where I could test ideas, break things, and add features I actually wanted. If you want to use it too, go ahead, but there are a few things worth knowing first:
 
-If you are looking for the standard, stable experience, please stick with the official OpenAsar.
+* **It's not polished.** Expect bugs, half-finished features, and code that was written at 2am.
+* **It's a hobby project.** I work on it when I feel like it, and priorities shift based on what I personally need.
+* **Plugins run deep.** All plugins are Vencord-based and get injected through DVOA's preload system, before Vencord even loads. That gives them direct access to Webpack internals and IPC, which is more than what standard Vencord plugins can do.
+* **A native core is coming (eventually).** The plan is to build `dvoa_core`, a native C++ module that hooks directly into Discord's process and native modules. No JS mod can do what that'll be capable of. It's a long-term goal though, so don't hold your breath.
+
+If you just want something stable and reliable, stick with official OpenAsar.
 
 <br>
 
