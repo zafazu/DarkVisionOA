@@ -26,10 +26,10 @@
 
 This started as a personal project for me and my friends, a fork where I could test ideas, break things, and add features I actually wanted. If you want to use it too, go ahead, but there are a few things worth knowing first:
 
-* **It's not polished.** Expect bugs, half-finished features, and code that was written at 2am.
-* **It's a hobby project.** I work on it when I feel like it, and priorities shift based on what I personally need.
-* **Plugins run deep.** All plugins are Vencord-based and get injected through DVOA's preload system, before Vencord even loads. That gives them direct access to Webpack internals and IPC, which is more than what standard Vencord plugins can do.
-* **A native core is coming (eventually).** The plan is to build `dvoa_core`, a native C++ module that hooks directly into Discord's process and native modules. No JS mod can do what that'll be capable of. It's a long-term goal though, so don't hold your breath.
+* **It's not polished** Expect bugs, half finished features, and code that looks like my grandma.
+* **It's a hobby project** I work on it when I feel like it.
+* **Plugins** All plugins are Vencord-based and get injected through DVOA's preload system, before Vencord even loads. That gives them direct access to Webpack internals and IPC, which is more than what standard Vencord plugins can do.
+* **A native core is coming (eventually)** The plan is to build `dvoa_core`, a native C++ module that hooks directly into Discord's process and native modules. No JS mod can do what that'll be capable of. It's a long-term goal though, so don't hold your breath.
 
 If you just want something stable and reliable, stick with official OpenAsar.
 
