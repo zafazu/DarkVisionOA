@@ -18,7 +18,7 @@
 
 > [!IMPORTANT]
 > **WINDOWS ONLY**
-> <br>This client requires Windows.
+> <br>Unlike OpenAsar this client addon only works on Windows
 
 
 > [!IMPORTANT]
