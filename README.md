@@ -15,9 +15,16 @@
 
 ---
 
+
+> [!IMPORTANT]
+> **WINDOWS ONLY**
+> <br>This client requires Windows.
+
+
 > [!IMPORTANT]
 > **REQUIRES VENCORD**
 > <br>This client requires Vencord to function correctly. Please ensure it is installed before proceeding.
+
 
 <br>
 
