@@ -45,8 +45,8 @@ If you just want something stable and reliable, stick with official OpenAsar.
   <br>Seamless integration and extension of Vencord.
 * 🎬 **Startup Video**
   <br>Play a custom video when the client launches for that personalized feel.
-* 🔧 **Native Core (Planned)**
-  <br>`dvoa_core` is a native C++ patcher that hooks into Discord's internals, exposing capabilities far beyond what JavaScript mods can do.
+* 🔧 **Native Core**
+  <br>`dvoa_dll` is a native C++ addon that hooks into Discord's GPU process, giving capabilities far beyond what JavaScript mods can do.
 * 📦 **A Lot More**
   <br>Full feature list coming upon release... can't you even wait!? 3:
 
