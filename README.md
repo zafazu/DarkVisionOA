@@ -29,7 +29,7 @@ This started as a personal project for me and my friends, a fork where I could t
 * **It's not polished:**   Expect bugs, half finished features, and code that looks like my grandma.
 * **It's a hobby project:**   I work on it when I feel like it.
 * **Plugins:**   All plugins are Vencord based and get injected through DVOA's preload, before Vencord even loads. That gives them direct access to Webpack internals and IPC, which is more than what standard Vencord plugins can do.
-*
+
 
 If you just want something stable and reliable, stick with official OpenAsar.
 
