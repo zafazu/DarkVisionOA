@@ -26,6 +26,10 @@
 > <br>This client requires Vencord to function correctly. Please ensure it is installed before proceeding.
 
 
+> [!IMPORTANT]
+> **STABLE ONLY -> NO CANARY SUPPORT**
+> <br>DarkVisionOA will run on Canary BUT dont expect it to work.
+
 <br>
 
 ## ⚠️ Disclaimer
