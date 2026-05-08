@@ -39,8 +39,7 @@ This started as a personal project for me and my friends, a fork where I could t
 
 * **It's not polished:**   Expect bugs, half finished features, and code that looks like my grandma.
 * **It's a hobby project:**   I work on it when I feel like it.
-* **Plugins:**   All plugins are Vencord based and get injected through DVOA's preload, before Vencord even loads. That gives them direct access to Webpack internals and IPC, which is more than what standard Vencord plugins can do.
-
+* **Plugins:**   All Core plugins are Vencord based but formated into the correct structure. 
 
 If you just want something stable and reliable, stick with official OpenAsar.
 
@@ -48,10 +47,14 @@ If you just want something stable and reliable, stick with official OpenAsar.
 
 ## ✨ Features
 
-* ⚡ **Faster Startup**
-  <br>Optimized boot process for a noticeably quicker client launch.
+* ⚡ **Much Faster Startup**
+  <br>Even More Optimized boot process for a noticeably quicker client launch.
+* 📊 **Use Less RAM**
+  <br>Up to 65% less RAM usage. 
 * 🧩 **Plugin Support**
-  <br>Run custom JS plugins via DVOA's preload system for deep Discord integration, alongside full support for Vencord's plugin ecosystem. Both work together seamlessly.
+  <br>What DVOA supports: Userscripts, Vencord Plugins, Direct Patches, Eager Patches, Wrappers.
+* 📄 **DLL Support**
+  <br>DVOA can load ur own DLLs into Discord.
 * 🩹 **Vencord Integration**
   <br>Seamless integration and extension of Vencord.
 * 🎬 **Startup Video**
