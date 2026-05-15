@@ -1,1 +1,118 @@
-what r u doin here
+{
+  "cmdPreset": {
+    "name": "Focus",
+    "desc": "Which aspect of the client to focus on",
+    "type": "select",
+    "options": [
+      "Best Performance",
+      "Best Quality"
+    ],
+    "value": "performance",
+    "extends": false,
+    "category": 1
+  },
+  "loadingvids": {
+    "name": "Boot Sequence",
+    "desc": "Choose the animation shown when the app starts.",
+    "type": "select",
+    "options": [
+      "Normal",
+      "DarkVisionOA",
+      "Playstation",
+      "Gameboy"
+    ],
+    "value": "Normal",
+    "extends": true,
+    "category": 1,
+    "meta": {
+      "developer": "idk",
+      "version": "1.0.0",
+      "patchInfo": "Controls boot animation sequence loader"
+    }
+  },
+  "spoofedplatform": {
+    "name": "Platform Spoofer",
+    "desc": "Choose the platform to spoof.",
+    "type": "select",
+    "options": [
+      "Desktop",
+      "Web",
+      "Android",
+      "iOS",
+      "Xbox",
+      "PlayStation",
+      "VR"
+    ],
+    "value": "PlayStation",
+    "extends": false,
+    "category": 1
+  },
+  "customBackground": {
+    "value": "https://i.imgur.com/FiqzBJS.gif",
+    "shown": false
+  },
+  "transparentBackground": {
+    "shown": false,
+    "value": false,
+    "type": "boolean"
+  },
+  "backgroundColor": {
+    "shown": false,
+    "value": "#000000",
+    "type": "color"
+  },
+  "enableCustomMods": {
+    "name": "Enable Custom Mods",
+    "type": "boolean",
+    "value": true,
+    "desc": "Load custom JS files",
+    "extends": false,
+    "category": 1
+  },
+  "Debug": {
+    "name": "Debug Mode",
+    "type": "boolean",
+    "value": true,
+    "desc": "Enable debug mode",
+    "extends": true,
+    "category": 1,
+    "meta": {
+      "developer": "idk",
+      "version": "1.0.0",
+      "patchInfo": "Enables console logging and dev tools"
+    }
+  },
+  "DarkVisionOA DLL Overlay": {
+    "name": "DLL Overlay",
+    "value": true,
+    "desc": "Enable the DLL overlay.",
+    "extends": true,
+    "type": "Advanced",
+    "secure": true,
+    "meta": {
+      "developer": "idk",
+      "version": "1.0.0",
+      "patchInfo": "Enables the DLL overlay, which may cause instability. Use with caution."
+    }
+  },
+  "dllUnlocked": {
+    "value": true,
+    "shown": false,
+    "category": 1
+  },
+  "customLogo": {
+    "value": ""
+  },
+  "weBackdropBlur": {
+    "shown": false,
+    "value": 0
+  },
+  "weAudio": {
+    "shown": false,
+    "value": false
+  },
+  "weGlassOpacity": {
+    "shown": false,
+    "value": 51
+  }
+}
