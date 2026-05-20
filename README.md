@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://i.imgur.com/EmA5IKY.png" width="80" alt="DarkVisionOA Logo" />
   <h1>DarkVisionOA</h1>
+  <h2>NOT A FORK OF OPENASAR</h2>
+  <h2>ONLY BASED ON OPENASAR</h2>
   <h2>[COMING SOON]</h2>
   <p><sub>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sub></p>
   
