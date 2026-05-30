@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://i.imgur.com/cMW1V0c.png" width="500" alt="DarkVisionOA Logo" />
-  <h1>DarkVisionOA</h1>
   <h2>[COMING SOON]</h2>
   <p><sub>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sub></p>
   
