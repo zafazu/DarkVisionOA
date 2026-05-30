@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Status-Personal_Project-orange" alt="Status: Personal Project">
   
   <br /><br />
-  <b>A Reimplementation of OpenAsar.</b>
+
 </div>
 
----Reimplementation
+
 
 
 > [!IMPORTANT]
