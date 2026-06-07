@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/cMW1V0c.png" width="500" alt="DarkVisionOA Logo" />
   <h2>[COMING SOON]</h2>
-  <h2>CURRENT VERSION: DEV1.2</h2>
+  <h2>CURRENT VERSION: DEV1.3</h2>
   <p><sub>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sub></p>
   
   <a href="https://choosealicense.com/licenses/agpl-3.0/">
