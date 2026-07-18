@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://i.imgur.com/cMW1V0c.png" width="500" alt="DarkVisionOA Logo" />
+  <h2>A MODDING FRAMEWORK FOR DISCORD</h2>
   <h2>[COMING SOON]</h2>
-  <h2>CURRENT VERSION: DEV1.3.17</h2>
+  <h2>CURRENT VERSION: DEV1.3.25</h2>
   <h2>IF U HAVE ANY QUESTIONS: <@898228838788657164></h2>
   <p><sub>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sub></p>
   
@@ -53,7 +54,7 @@ If you just want something stable and reliable, stick with official OpenAsar.
 * 📊 **Use Less RAM**
   <br>Up to 65% less RAM usage. 
 * 🧩 **Plugin Support**
-  <br>What DVOA supports: Userscripts, Vencord Plugins, Direct Patches, Eager Patches, Wrappers.
+  <br>What DVOA supports: Userscripts, Vencord Plugins, Direct Patches, Eager Patches, Wrappers, CSS Injects, Preload/Main/Renderer Patches, Core Patches, DLLs.
 * 📄 **DLL Support**
   <br>DVOA can load ur own DLLs into Discord.
 * 🩹 **Vencord Integration**
