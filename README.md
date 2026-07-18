@@ -19,55 +19,33 @@
 
 > [!IMPORTANT]
 > **WINDOWS ONLY**
-> <br>Unlike OpenAsar this client addon only works on Windows.
+> <br>Unlike OpenAsar, DarkVisionOA only works on Windows.
 
 
 > [!IMPORTANT]
 > **REQUIRES VENCORD**
-> <br>This client requires Vencord to function correctly. Please ensure it is installed before proceeding.
+> <br>DarkVisionOA requires Vencord. Please ensure it is installed before proceeding.
 
 
 > [!IMPORTANT]
 > **STABLE ONLY -> NO CANARY SUPPORT**
-> <br>DarkVisionOA will run on Canary BUT dont expect it to work.
+> <br>DarkVisionOA will NOT run on Canary.
 
 <br>
 
 ## ⚠️ Disclaimer
 **DarkVisionOA is not intended to replace OpenAsar.**
-
-This started as a personal project for me and my friends, a fork where I could test ideas, break things, and add features I actually wanted. If you want to use it too, go ahead, but there are a few things worth knowing first:
-
-* **It's not polished:**   Expect bugs, half finished features, and code that looks like my grandma.
-* **It's a hobby project:**   I work on it when I feel like it.
-* **Plugins:**   All Core plugins are Vencord based but formated into the correct structure. 
-
-If you just want something stable and reliable, stick with official OpenAsar.
+**If you want something stable and reliable, stick with official OpenAsar.**
 
 <br>
 
-## ✨ Features
+##  Features
 
-* ⚡ **Much Faster Startup**
-  <br>Even More Optimized boot process for a noticeably quicker client launch.
-* 📊 **Use Less RAM**
-  <br>Up to 65% less RAM usage. 
-* 🧩 **Plugin Support**
-  <br>What DVOA supports: Userscripts, Vencord Plugins, Direct Patches, Eager Patches, Wrappers, CSS Injects, Preload/Main/Renderer Patches, Core Patches, DLLs.
-* 📄 **DLL Support**
-  <br>DVOA can load ur own DLLs into Discord.
-* 🩹 **Vencord Integration**
-  <br>Seamless integration and extension of Vencord.
-* 🎬 **Startup Video**
-  <br>Play a custom video when the client launches for that personalized feel.
-* 📦 **A Lot More**
-  <br>Full feature list coming upon release... can't you even wait!? 3:
+## Feature list soon
 
 <br>
 
-## ⚙️ Configuration
-
-Accessing the settings is simple. Once installed and running:
+##  Configuration
 
 > **Press ` F2 | alt+2 | altgraphic+2 ` to open the DarkVisionOA Config Menu.**
 
