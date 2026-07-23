@@ -23,7 +23,7 @@
 
 > [!IMPORTANT]
 > **WINDOWS 10 IS UNSTABLE**
-> <br>DarkVision is compatible with Windows 10, but due to Electron and Windows compatibility issues, it is not as stable as it is on Windows 11.
+> <br>DarkVisionOA is compatible with Windows 10, but due to Electron and Windows compatibility issues, it is not as stable as it is on Windows 11.
 > <br>If you use Windows 10, please expect visual bugs, unresponsive keybinds, high GPU usage, or audio corruption. 
 
 > [!IMPORTANT]
