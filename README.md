@@ -56,6 +56,11 @@
 
 <br>
 
-## 📥 Installation
+## Installation
 
 *[Installation Guide Coming Soon]*
+
+
+## License
+
+![GPL-v3](https://www.gnu.org/graphics/gplv3-127x51.png)
