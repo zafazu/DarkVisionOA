@@ -60,6 +60,9 @@
 
 *[Installation Guide Coming Soon]*
 
+## License
+
+![Koffi](https://koffi.dev/static/logo.webp?1B0C8392E888C18A)
 
 ## License
 
