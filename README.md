@@ -62,8 +62,10 @@
 
 ## Dependencies
 
-<img src="https://koffi.dev/static/logo.webp?1B0C8392E888C18A" alt="Koffi" width="150" />
+<img src="https://koffi.dev/static/logo.webp?1B0C8392E888C18A" alt="Koffi" width="150" /> &nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/dxrgrSt.png" alt="pnpm" width="125" align="top" />
 
 ## License
 
 ![GPL-v3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+
