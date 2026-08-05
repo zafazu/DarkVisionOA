@@ -62,7 +62,22 @@
 
 ## Dependencies
 
-<img src="https://i.imgur.com/QHsBIm5.png" alt="Vencord" width="75" /> &nbsp;&nbsp;&nbsp; <img src="https://koffi.dev/static/logo.webp?1B0C8392E888C18A" alt="Koffi" width="150" /> &nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/dxrgrSt.png" alt="pnpm" width="125" align="top" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git.git" width="150"  /> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<div align="center">
+  <img src="https://i.imgur.com/QHsBIm5.png" alt="Vencord" width="75" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="./Assets/Readme/line.svg" alt="line" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://koffi.dev/static/logo.webp?1B0C8392E888C18A" alt="Koffi" width="150" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Assets/Readme/line.svg" alt="line" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/dxrgrSt.png" alt="pnpm" width="110"  /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Assets/Readme/line.svg" alt="line" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git.git" width="150"  />
+</div>
 
 ## License
 
