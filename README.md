@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/cMW1V0c.png" width="500" alt="DarkVisionOA Logo" />
   <h2>A MODDING FRAMEWORK FOR DISCORD</h2>
   <h2>CURRENT VERSION: DEV1.3.33</h2>
-  <h2>IF U HAVE ANY QUESTIONS: <@898228838788657164></h2>
+  <h2>IF U HAVE ANY QUESTIONS: &lt;@898228838788657164&gt;</h2>
   <p><sub>/ˈdɑːrkˈvɪʒən oʊpən ʌsɑr/ &nbsp;(dark-vi-zhun o-pen as-are)</sub></p>
   
   <a href="https://choosealicense.com/licenses/agpl-3.0/">
@@ -60,9 +60,9 @@
 
 *[Installation Guide Coming Soon]*
 
-## License
+## Dependencies
 
-![Koffi](https://koffi.dev/static/logo.webp?1B0C8392E888C18A)
+<img src="https://koffi.dev/static/logo.webp?1B0C8392E888C18A" alt="Koffi" width="150" />
 
 ## License
 
