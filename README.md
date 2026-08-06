@@ -20,27 +20,13 @@
 > [!IMPORTANT]
 > **WINDOWS ONLY**
 > <br>Unlike OpenAsar, DarkVisionOA only works on Windows.
-
-> [!IMPORTANT]
-> **WINDOWS 10 IS UNSTABLE**
-> <br>DarkVisionOA is compatible with Windows 10, but due to Electron and Windows compatibility issues,
-> <br>it is not as stable as it is on Windows 11.
-> <br>If you use Windows 10, please expect visual bugs, unresponsive keybinds, high GPU usage, or audio corruption. 
-
-> [!IMPORTANT]
+> 
 > **REQUIRES VENCORD**
 > <br>DarkVisionOA requires Vencord. Please ensure it is installed before proceeding.
 
-
-> [!IMPORTANT]
-> **STABLE ONLY -> NO CANARY SUPPORT**
-> <br>DarkVisionOA will NOT run on Canary.
-
 <br>
 
-## ⚠️ Disclaimer
-**DarkVisionOA is not intended to replace OpenAsar.**
-**If you want something stable and reliable, stick with official OpenAsar.**
+
 
 <br>
 
