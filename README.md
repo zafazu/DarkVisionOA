@@ -58,6 +58,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./Assets/Readme/line.svg" alt="line" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://xtermjs.org/"><img src="https://xtermjs.org/images/logo-full-x2.png" alt="xterm" width="250" border="0" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Assets/Readme/line.svg" alt="line" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pnpm.io/"><img src="https://i.imgur.com/dxrgrSt.png" alt="pnpm" width="110" border="0" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./Assets/Readme/line.svg" alt="line" />
