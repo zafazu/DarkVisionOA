@@ -1,6 +1,6 @@
 END-USER SUPPLEMENTAL LICENSE AGREEMENT FOR DARKVISIONOA
 
-IMPORTANT—READ CAREFULLY: This End-User Supplemental License Agreement (“Supplemental Terms”) is a legal agreement between you (either an individual or a single entity) and zafazu (“Owner,” “We,” “Us,” or “Our”) for the software product DarkVisionOA (“Software”). The Software is licensed under the GNU Affero General Public License v3.0 (“AGPLv3”). These Supplemental Terms are additional terms permitted under Section 7 of the AGPLv3 and apply alongside—and do not replace, restrict, or override—the AGPLv3. 
+IMPORTANT—READ CAREFULLY: This End-User Supplemental License Agreement (“Supplemental Terms”) is a legal agreement between you (either an individual or a single entity) and zafazu (“Owner,” “We,” “Us,” or “Our”) for the software product DarkVisionOA (“Software”). The Software is licensed under the GNU Affero General Public License v3.0 (“AGPLv3”). These Supplemental Terms are additional terms permitted under Section 7 of the AGPLv3 and apply alongside—and do not replace, restrict, or override the AGPLv3. 
 
 YOU AGREE TO BE BOUND BY THE TERMS OF THESE SUPPLEMENTAL TERMS BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE. IF YOU DO NOT AGREE, DO NOT INSTALL, COPY, OR USE THE SOFTWARE.
 
