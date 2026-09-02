@@ -68,6 +68,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git.git" width="150" border="0" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Assets/Readme/line.svg" alt="line" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/zyantific/zydis"><img src="https://raw.githubusercontent.com/zyantific/zydis/master/assets/img/logo-dark.svg" alt="Zydis" width="230" border="0" /></a>
 </div>
 
 ## License
