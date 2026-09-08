@@ -36,9 +36,6 @@
 
 <br>
 
-##  Configuration
-
-> **Press ` F2 | alt+2 | altgraphic+2 ` to open the DarkVisionOA Config Menu.**
 
 <br>
 
