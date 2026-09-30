@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/cMW1V0c.png" width="500" alt="DarkVisionOA Logo" />
+  <img src="https://files.catbox.moe/zkzyav.png" width="750" alt="DarkVisionOA Logo" />
   <h2>A MODDING FRAMEWORK FOR DISCORD</h2>
   <h2>CURRENT VERSION: DEV1.3.50</h2>
   <h2>IF U HAVE ANY QUESTIONS: &lt;@898228838788657164&gt;</h2>
